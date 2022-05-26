@@ -1,0 +1,5 @@
+export const ADD_PANIER="ADD_PANIER"
+export const ADD_QUANTITY="ADD_QUANTITY"
+export const REMOVE_QUANTITY="REMOVE_QUANTITY"
+export const REMOVE_ITEM="REMOVE_ITEM"
+export const GET_ORDERS="GET_ORDERS"
